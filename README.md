@@ -1,2 +1,2 @@
 # Git-Wall-Colormaker
-More green.
+More green. :green_apple:
